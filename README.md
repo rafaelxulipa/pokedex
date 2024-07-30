@@ -1,8 +1,8 @@
 # Pokédex
 
-Developed as part of the React module in the [Web Development Course](https://emanuelquintino.github.io/Page-WDC/), this project aims to create an interactive Pokédex that allows you to view all Pokémon, provide details about each one, implement pagination and include a search field to find specific Pokémon.
+This project aims to create an interactive Pokédex that allows you to view all Pokémon, provide details about each one, implement pagination and include a search field to find specific Pokémon.
 
-![home-layout](./src/assets/home-layout.png)
+![home-layout](./src/assets/home-layout-2.png)
 
 ## Features
 
@@ -28,7 +28,7 @@ Developed as part of the React module in the [Web Development Course](https://em
 
 ```bash
 # clone the repository
-$ git clone https://github.com/EmanuelQuintino/Pokedex.git
+$ git clone https://github.com/rafaelxulipa/weather-project.git
 
 # install dependencies
 $ npm install
