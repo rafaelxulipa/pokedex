@@ -28,7 +28,7 @@ This project aims to create an interactive Pokédex that allows you to view all 
 
 ```bash
 # clone the repository
-$ git clone https://github.com/rafaelxulipa/weather-project.git
+$ git clone https://github.com/rafaelxulipa/pokedex.git
 
 # install dependencies
 $ npm install
